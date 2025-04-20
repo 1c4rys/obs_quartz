@@ -1,6 +1,6 @@
 ---
 title: 1st Epoch
-draft: false
+draft: true
 tags:
   - 
 type: info
